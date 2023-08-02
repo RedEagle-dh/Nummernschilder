@@ -11,6 +11,9 @@ router.get("/", (req, res, next) => {
         res.sendStatus(404);
     }
     const k = nummernschildJSON.find(k => k.kurz === kurzel);
+    if (!k) [
+        res.sendStatus(404)
+    ]
     res.json(k);
 })
 
