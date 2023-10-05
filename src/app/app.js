@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 
-const PORT = 80;
+const PORT = 3100;
 
 const nummernschildRouter = require(`../api/getNummernschild`);
 
