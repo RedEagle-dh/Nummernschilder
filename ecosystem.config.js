@@ -1,18 +1,13 @@
 module.exports = {
     apps: [
         {
-            name: "Nummernschilder API",
+            name: "German Carplates API",
             script: "./src/app/app.js",
-            instances: "max",
+            instances: 1,
             autorestart: true,
-            watch: true,
-            max_memory_restart: "1G",
-            env: {
-                NODE_ENV: "development",
-            },
-            env_production: {
-                NODE_ENV: "production",
-            },
+            watch: false,
+            max_memory_restart: "500M",
+            version: require('./package.json').version,
         },
     ],
 };
