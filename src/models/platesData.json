@@ -1,0 +1,3950 @@
+[
+    {
+        "abbreviation": "A",
+        "origin": "Augsburg",
+        "city": "Stadt & Landkreis Augsburg",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "AA",
+        "origin": "Aalen",
+        "city": "Ostalbkreis",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "AB",
+        "origin": "Aschaffenburg",
+        "city": "Landkreis & Stadt Aschaffenburg",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "ABG",
+        "origin": "Altenburg",
+        "city": "Landkreis Altenburger Land",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "ABI",
+        "origin": "Anhalt-Bitterfeld",
+        "city": "Landkreis Anhalt-Bitterfeld",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "AC",
+        "origin": "Aachen",
+        "city": "Städteregion Aachen",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "AE",
+        "origin": "Auerbach im Vogtland",
+        "city": "Vogtlandkreis",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "AH",
+        "origin": "Ahaus",
+        "city": "Kreis Borken",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "AIB",
+        "origin": "Bad Aibling",
+        "city": "Landkreise München & Rosenheim",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "AIC",
+        "origin": "Aichach",
+        "city": "Landkreis Aichach-Friedberg",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "AK",
+        "origin": "Altenkirchen",
+        "city": "Landkreis Altenkirchen (Westerwald)",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "ALF",
+        "origin": "Alfeld (Leine)",
+        "city": "Landkreis Hildesheim",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "ALZ",
+        "origin": "Alzenau",
+        "city": "Landkreis Aschaffenburg",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "AM",
+        "origin": "Amberg",
+        "city": "Stadt Amberg",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "AN",
+        "origin": "Ansbach",
+        "city": "Landkreis & Stadt Ansbach",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "ANA",
+        "origin": "Annaberg-Buchholz",
+        "city": "Erzgebirgskreis",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "ANK",
+        "origin": "Anklam",
+        "city": "Landkreis Vorpommern-Greifswald ohne",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "AÖ",
+        "origin": "Altötting",
+        "city": "Landkreis Altötting",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "AP",
+        "origin": "Apolda",
+        "city": "Landkreis Weimarer Land",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "APD",
+        "origin": "Apolda",
+        "city": "Landkreis Weimarer Land",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "ARN",
+        "origin": "Arnstadt",
+        "city": "Ilm-Kreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "ART",
+        "origin": "Artern",
+        "city": "Kyffhäuserkreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "AS",
+        "origin": "Amberg-Sulzbach",
+        "city": "Landkreis Amberg-Sulzbach",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "ASL",
+        "origin": "Aschersleben",
+        "city": "Salzlandkreis",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "ASZ",
+        "origin": "Aue-Schwarzenberg",
+        "city": "Erzgebirgskreis",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "AT",
+        "origin": "Altentreptow",
+        "city": "Landkreis Mecklenburgische Seenplatte o",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "AU",
+        "origin": "Aue (Sachsen)",
+        "city": "Erzgebirgskreis",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "AUR",
+        "origin": "Aurich",
+        "city": "Landkreis Aurich",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "AW",
+        "origin": "Ahrweiler",
+        "city": "Landkreis Ahrweiler",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "AZ",
+        "origin": "Alzey",
+        "city": "Landkreis Alzey-Worms",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "AZE",
+        "origin": "Anhalt-Zerbst",
+        "city": "Landkreis Anhalt-Bitterfeld",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "B",
+        "origin": "Berlin",
+        "city": "Stadt Berlin",
+        "state": "Berlin"
+    },
+    {
+        "abbreviation": "BA",
+        "origin": "Bamberg",
+        "city": "Landkreis & Stadt Bamberg",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "BAD",
+        "origin": "Baden-Baden",
+        "city": "Stadt Baden-Baden",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "BAR",
+        "origin": "Barnim",
+        "city": "Landkreis Barnim",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "BB",
+        "origin": "Böblingen",
+        "city": "Landkreis Böblingen",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "BBG",
+        "origin": "Bernburg (Saale)",
+        "city": "Salzlandkreis",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "BBL",
+        "origin": "Land Brandenburg",
+        "city": "Landesregierung, Landtag und Polizei",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "BC",
+        "origin": "Biberach an der Riß",
+        "city": "Landkreis Biberach",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "BCH",
+        "origin": "Buchen (Odenwald)",
+        "city": "Neckar-Odenwald-Kreis",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "BD",
+        "origin": "Bund",
+        "city": "Deutscher Bundestag, Bundesrat, Bundes",
+        "state": "bundesweit"
+    },
+    {
+        "abbreviation": "BED",
+        "origin": "Brand-Erbisdorf",
+        "city": "Landkreis Mittelsachsen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "BER",
+        "origin": "Bernau bei Berlin",
+        "city": "Landkreis Barnim",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "BF",
+        "origin": "Burgsteinfurt",
+        "city": "Kreis Steinfurt",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "BGL",
+        "origin": "Berchtesgadener Land",
+        "city": "Landkreis Berchtesgadener Land",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "BI",
+        "origin": "Bielefeld",
+        "city": "Stadt Bielefeld",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "BID",
+        "origin": "Biedenkopf",
+        "city": "Landkreis Marburg-Biedenkopf",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "BIN",
+        "origin": "Bingen",
+        "city": "Landkreis Mainz-Bingen",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "BIR",
+        "origin": "Birkenfeld",
+        "city": "Landkreis Birkenfeld",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "BIT",
+        "origin": "Bitburg",
+        "city": "Eifelkreis Bitburg-Prüm",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "BIW",
+        "origin": "Bischofswerda",
+        "city": "Landkreis Bautzen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "BK",
+        "origin": "Börde(kreis)",
+        "city": "Landkreis Börde",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "BKS",
+        "origin": "Bernkastel-Kues",
+        "city": "Landkreis Bernkastel-Wittlich",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "BL",
+        "origin": "Balingen",
+        "city": "Zollernalbkreis",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "BLB",
+        "origin": "Bad Berleburg",
+        "city": "Kreis Siegen-Wittgenstein",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "BLK",
+        "origin": "Burgenlandkreis",
+        "city": "Burgenlandkreis",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "BM",
+        "origin": "Bergheim",
+        "city": "Rhein-Erft-Kreis",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "BN",
+        "origin": "Bonn",
+        "city": "Stadt Bonn",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "BNA",
+        "origin": "Borna",
+        "city": "Landkreis Leipzig",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "BO",
+        "origin": "Bochum",
+        "city": "Stadt Bochum",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "BÖ",
+        "origin": "Börde",
+        "city": "Landkreis Börde",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "BOH",
+        "origin": "Bocholt",
+        "city": "Kreis Borken",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "BOR",
+        "origin": "Borken",
+        "city": "Kreis Borken",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "BOT",
+        "origin": "Bottrop",
+        "city": "Stadt Bottrop",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "BP",
+        "origin": "Bundespolizei",
+        "city": "Bundespolizei",
+        "state": "bundesweit"
+    },
+    {
+        "abbreviation": "BRA",
+        "origin": "Brake (Unterweser)",
+        "city": "Landkreis Wesermarsch",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "BRB",
+        "origin": "Brandenburg an der Havel",
+        "city": "Stadt Brandenburg an der Havel",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "BRG",
+        "origin": "Burg bei Magdeburg",
+        "city": "Landkreis Jerichower Land",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "BRK",
+        "origin": "Bad Brückenau",
+        "city": "Landkreis Bad Kissingen",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "BRL",
+        "origin": "Braunlage",
+        "city": "Landkreis Goslar",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "BRV",
+        "origin": "Bremervörde",
+        "city": "Landkreis Rotenburg (Wümme)",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "BS",
+        "origin": "Braunschweig",
+        "city": "Stadt Braunschweig",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "BT",
+        "origin": "Bayreuth",
+        "city": "Landkreis & Stadt Bayreuth",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "BTF",
+        "origin": "Bitterfeld",
+        "city": "Landkreis Anhalt-Bitterfeld",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "BÜD",
+        "origin": "Büdingen",
+        "city": "Wetteraukreis",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "BUL",
+        "origin": "Burglengenfeld",
+        "city": "Landkreise Amberg-Sulzbach & Schwand",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "BÜS",
+        "origin": "Büsingen",
+        "city": "Gemeinde Büsingen am Hochrhein",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "BÜZ",
+        "origin": "Bützow",
+        "city": "Landkreis Rostock",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "BW",
+        "origin": "Bundes Wasser-und Schifffa",
+        "city": "Wasser- und Schifffahrtsverwaltung des B",
+        "state": "bundesweit"
+    },
+    {
+        "abbreviation": "BWL",
+        "origin": "Land Baden-Württemberg",
+        "city": "Landesregierung, Landtag und Polizei",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "BYL",
+        "origin": "Land Bayern",
+        "city": "Landesregierung und Landtag",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "BZ",
+        "origin": "Bautzen",
+        "city": "Landkreis Bautzen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "C",
+        "origin": "Chemnitz",
+        "city": "Stadt Chemnitz",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "CA",
+        "origin": "Calau",
+        "city": "Landkreis Oberspreewald-Lausitz",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "CAS",
+        "origin": "Castrop-Rauxel",
+        "city": "Kreis Recklinghausen",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "CB",
+        "origin": "Cottbus",
+        "city": "Stadt Cottbus",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "CE",
+        "origin": "Celle",
+        "city": "Landkreis Celle",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "CHA",
+        "origin": "Cham",
+        "city": "Landkreis Cham",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "CLP",
+        "origin": "Cloppenburg",
+        "city": "Landkreis Cloppenburg",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "CLZ",
+        "origin": "Clausthal-Zellerfeld",
+        "city": "Landkreis Goslar",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "CO",
+        "origin": "Coburg",
+        "city": "Landkreis & Stadt Coburg",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "COC",
+        "origin": "Cochem",
+        "city": "Landkreis Cochem-Zell",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "COE",
+        "origin": "Coesfeld",
+        "city": "Kreis Coesfeld",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "CUX",
+        "origin": "Cuxhaven",
+        "city": "Landkreis Cuxhaven",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "CW",
+        "origin": "Calw",
+        "city": "Landkreis Calw",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "D",
+        "origin": "Düsseldorf",
+        "city": "Stadt Düsseldorf",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "DA",
+        "origin": "Darmstadt",
+        "city": "Stadt Darmstadt & Landkreis Darmstadt-",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "DAH",
+        "origin": "Dachau",
+        "city": "Landkreis Dachau",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "DAN",
+        "origin": "Dannenberg",
+        "city": "Landkreis Lüchow-Dannenberg",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "DAU",
+        "origin": "Daun",
+        "city": "Landkreis Vulkaneifel",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "DBR",
+        "origin": "Bad Doberan",
+        "city": "Landkreis Rostock",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "DD",
+        "origin": "Dresden",
+        "city": "Stadt Dresden",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "DE",
+        "origin": "Dessau",
+        "city": "Stadt Dessau-Roßlau",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "DEG",
+        "origin": "Deggendorf",
+        "city": "Landkreis Deggendorf",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "DEL",
+        "origin": "Delmenhorst",
+        "city": "Stadt Delmenhorst",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "DGF",
+        "origin": "Dingolfing",
+        "city": "Landkreis Dingolfing-Landau",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "DH",
+        "origin": "Diepholz",
+        "city": "Landkreis Diepholz",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "DI",
+        "origin": "Dieburg",
+        "city": "Landkreis Darmstadt-Dieburg",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "DIN",
+        "origin": "Dinslaken",
+        "city": "Kreis Wesel",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "DIZ",
+        "origin": "Diez",
+        "city": "Rhein-Lahn-Kreis",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "DKB",
+        "origin": "Dinkelsbühl",
+        "city": "Landkreis Ansbach",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "DL",
+        "origin": "Döbeln",
+        "city": "Landkreis Mittelsachsen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "DLG",
+        "origin": "Dillingen an der Donau",
+        "city": "Landkreis Dillingen an der Donau",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "DM",
+        "origin": "Demmin",
+        "city": "Landkreis Mecklenburgische Seenplatte o",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "DN",
+        "origin": "Düren",
+        "city": "Kreis Düren",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "DO",
+        "origin": "Dortmund",
+        "city": "Stadt Dortmund",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "DON",
+        "origin": "Donauwörth",
+        "city": "Landkreis Donau-Ries",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "DU",
+        "origin": "Duisburg",
+        "city": "Stadt Duisburg",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "DUD",
+        "origin": "Duderstadt",
+        "city": "Landkreis Göttingen",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "DÜW",
+        "origin": "Bad Dürkheim an der Weins",
+        "city": "Landkreis Bad Dürkheim",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "DW",
+        "origin": "Dippoldiswalde",
+        "city": "Landkreis Sächsische Schweiz-Osterzgebi",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "DZ",
+        "origin": "Delitzsch",
+        "city": "Landkreis Nordsachsen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "E",
+        "origin": "Essen",
+        "city": "Stadt Essen",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "EA",
+        "origin": "Eisenach",
+        "city": "Stadt Eisenach",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "EB",
+        "origin": "Eilenburg",
+        "city": "Landkreis Nordsachsen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "EBE",
+        "origin": "Ebersberg",
+        "city": "Landkreis Ebersberg",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "EBS",
+        "origin": "Ebermannstadt",
+        "city": "Landkreise Bayreuth, Forchheim & Kulmb",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "ECK",
+        "origin": "Eckernförde",
+        "city": "Kreis Rendsburg-Eckernförde",
+        "state": "Schleswig-Holstein"
+    },
+    {
+        "abbreviation": "ED",
+        "origin": "Erding",
+        "city": "Landkreis Erding",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "EE",
+        "origin": "Elbe-Elster",
+        "city": "Landkreis Elbe-Elster",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "EF",
+        "origin": "Erfurt",
+        "city": "Stadt Erfurt",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "EG",
+        "origin": "Eggenfelden",
+        "city": "Landkreis Rottal-Inn",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "EI",
+        "origin": "Eichstätt",
+        "city": "Landkreis Eichstätt",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "EIC",
+        "origin": "Eichsfeld",
+        "city": "Landkreis Eichsfeld",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "EIL",
+        "origin": "Eisleben",
+        "city": "Landkreis Mansfeld-Südharz",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "EIN",
+        "origin": "Einbeck",
+        "city": "Landkreis Northeim",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "EIS",
+        "origin": "Eisenberg",
+        "city": "Saale-Holzland-Kreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "EL",
+        "origin": "Emsland",
+        "city": "Landkreis Emsland",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "EM",
+        "origin": "Emmendingen",
+        "city": "Landkreis Emmendingen",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "EMD",
+        "origin": "Emden",
+        "city": "Stadt Emden",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "EMS",
+        "origin": "Bad Ems",
+        "city": "Rhein-Lahn-Kreis",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "EN",
+        "origin": "Ennepe",
+        "city": "Ennepe-Ruhr-Kreis",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "ER",
+        "origin": "Erlangen",
+        "city": "Stadt Erlangen",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "ERB",
+        "origin": "Erbach (Odenwald)",
+        "city": "Odenwaldkreis",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "ERH",
+        "origin": "Erlangen-Höchstadt",
+        "city": "Landkreis Erlangen-Höchstadt",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "ERK",
+        "origin": "Erkelenz",
+        "city": "Kreis Heinsberg",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "ERZ",
+        "origin": "Erzgebirge",
+        "city": "Erzgebirgskreis",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "ES",
+        "origin": "Esslingen am Neckar",
+        "city": "Landkreis Esslingen",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "ESB",
+        "origin": "Eschenbach in der Oberpfalz",
+        "city": "Landkreise Amberg-Sulzbach, Bayreuth, N",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "ESW",
+        "origin": "Eschwege",
+        "city": "Werra-Meißner-Kreis",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "EU",
+        "origin": "Euskirchen",
+        "city": "Kreis Euskirchen",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "EW",
+        "origin": "Eberswalde",
+        "city": "Landkreis Barnim",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "F",
+        "origin": "Frankfurt",
+        "city": "Stadt Frankfurt am Main",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "FB",
+        "origin": "Friedberg (Hessen)",
+        "city": "Wetteraukreis",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "FD",
+        "origin": "Fulda",
+        "city": "Landkreis Fulda",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "FDB",
+        "origin": "Friedberg",
+        "city": "Landkreis Aichach-Friedberg",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "FDS",
+        "origin": "Freudenstadt",
+        "city": "Landkreis Freudenstadt",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "FEU",
+        "origin": "Feuchtwangen",
+        "city": "Landkreis Ansbach",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "FF",
+        "origin": "Frankfurt",
+        "city": "Stadt Frankfurt an der Oder",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "FFB",
+        "origin": "Fürstenfeldbruck",
+        "city": "Landkreis Fürstenfeldbruck",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "FG",
+        "origin": "Freiberg",
+        "city": "Landkreis Mittelsachsen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "FI",
+        "origin": "Finsterwalde",
+        "city": "Landkreis Elbe-Elster",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "FL",
+        "origin": "Flensburg",
+        "city": "Stadt Flensburg",
+        "state": "Schleswig-Holstein"
+    },
+    {
+        "abbreviation": "FLÖ",
+        "origin": "Flöha",
+        "city": "Landkreis Mittelsachsen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "FN",
+        "origin": "Friedrichshafen",
+        "city": "Bodenseekreis",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "FO",
+        "origin": "Forchheim",
+        "city": "Landkreis Forchheim",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "FOR",
+        "origin": "Forst (Lausitz)",
+        "city": "Landkreis Spree-Neiße",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "FR",
+        "origin": "Freiburg im Breisgau",
+        "city": "Stadt Freiburg im Breisgau & Landkreis Br",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "FRG",
+        "origin": "Freyung-Grafenau",
+        "city": "Landkreis Freyung-Grafenau",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "FRI",
+        "origin": "Friesland",
+        "city": "Landkreis Friesland",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "FRW",
+        "origin": "Bad Freienwalde (Oder)",
+        "city": "Landkreis Märkisch-Oderland",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "FS",
+        "origin": "Freising",
+        "city": "Landkreis Freising",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "FT",
+        "origin": "Frankenthal",
+        "city": "Stadt Frankenthal (Pfalz)",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "FTL",
+        "origin": "Freital",
+        "city": "Landkreis Sächsische Schweiz-Osterzgebi",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "FÜ",
+        "origin": "Fürth",
+        "city": "Stadt & Landkreis Fürth",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "FÜS",
+        "origin": "Füssen",
+        "city": "Landkreis Ostallgäu",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "G",
+        "origin": "Gera",
+        "city": "Stadt Gera",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "GA",
+        "origin": "Gardelegen",
+        "city": "Altmarkkreis Salzwedel",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "GAN",
+        "origin": "Bad Gandersheim",
+        "city": "Landkreis Northeim",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "GAP",
+        "origin": "Garmisch-Partenkirchen",
+        "city": "Landkreis Garmisch-Partenkirchen",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "GC",
+        "origin": "Glauchau",
+        "city": "Landkreis Zwickau",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "GD",
+        "origin": "Schwäbisch Gmünd",
+        "city": "Ostalbkreis",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "GDB",
+        "origin": "Gadebusch",
+        "city": "Landkreis Nordwestmecklenburg",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "GE",
+        "origin": "Gelsenkirchen",
+        "city": "Stadt Gelsenkirchen",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "GEO",
+        "origin": "Gerolzhofen",
+        "city": "Landkreis Schweinfurt",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "GER",
+        "origin": "Germersheim",
+        "city": "Landkreis Germersheim",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "GF",
+        "origin": "Gifhorn",
+        "city": "Landkreis Gifhorn",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "GG",
+        "origin": "Groß-Gerau",
+        "city": "Landkreis Groß-Gerau",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "GHA",
+        "origin": "Geithain",
+        "city": "Landkreis Leipzig",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "GHC",
+        "origin": "Gräfenhainichen",
+        "city": "Landkreis Wittenberg",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "GI",
+        "origin": "Gießen",
+        "city": "Landkreis Gießen",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "GK",
+        "origin": "Geilenkirchen",
+        "city": "Kreis Heinsberg",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "GL",
+        "origin": "Bergisch Gladbach",
+        "city": "Rheinisch-Bergischer Kreis",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "GLA",
+        "origin": "Gladbeck",
+        "city": "Kreis Recklinghausen",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "GM",
+        "origin": "Gummersbach",
+        "city": "Oberbergischer Kreis",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "GMN",
+        "origin": "Grimmen",
+        "city": "Landkreis Vorpommern-Rügen ohne Stral",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "GN",
+        "origin": "Gelnhausen",
+        "city": "Main-Kinzig-Kreis ohne Hanau",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "GNT",
+        "origin": "Genthin",
+        "city": "Landkreis Jerichower Land",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "GÖ",
+        "origin": "Göttingen",
+        "city": "Landkreis & Stadt Göttingen",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "GOA",
+        "origin": "Sankt Goar",
+        "city": "Rhein-Hunsrück-Kreis",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "GOH",
+        "origin": "Sankt Goarshausen",
+        "city": "Rhein-Lahn-Kreis",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "GP",
+        "origin": "Göppingen",
+        "city": "Landkreis Göppingen",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "GR",
+        "origin": "Görlitz",
+        "city": "Landkreis Görlitz",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "GRA",
+        "origin": "Grafenau",
+        "city": "Landkreis Freyung-Grafenau",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "GRH",
+        "origin": "Großenhain",
+        "city": "Landkreis Meißen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "GRI",
+        "origin": "Bad Griesbach im Rottal",
+        "city": "Landkreis Rottal-Inn",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "GRM",
+        "origin": "Grimma",
+        "city": "Landkreis Leipzig",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "GRZ",
+        "origin": "Greiz",
+        "city": "Landkreis Greiz",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "GS",
+        "origin": "Goslar",
+        "city": "Landkreis Goslar",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "GT",
+        "origin": "Gütersloh",
+        "city": "Kreis Gütersloh",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "GTH",
+        "origin": "Gotha",
+        "city": "Landkreis Gotha",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "GÜ",
+        "origin": "Güstrow",
+        "city": "Landkreis Rostock",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "GUB",
+        "origin": "Guben",
+        "city": "Landkreis Spree-Neiße",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "GUN",
+        "origin": "Gunzenhausen",
+        "city": "Landkreis Weißenburg-Gunzenhausen",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "GVM",
+        "origin": "Grevesmühlen",
+        "city": "Landkreis Nordwestmecklenburg",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "GW",
+        "origin": "Greifswald",
+        "city": "Landkreis Vorpommern-Greifswald ohne",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "GZ",
+        "origin": "Günzburg",
+        "city": "Landkreis Günzburg",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "H",
+        "origin": "Hannover",
+        "city": "Region & Stadt Hannover",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "HA",
+        "origin": "Hagen",
+        "city": "Stadt Hagen",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "HAB",
+        "origin": "Hammelburg",
+        "city": "Landkreis Bad Kissingen",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "HAL",
+        "origin": "Halle an der Saale",
+        "city": "Stadt Halle an der Saale",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "HAM",
+        "origin": "Hamm",
+        "city": "Stadt Hamm",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "HAS",
+        "origin": "Haßfurt",
+        "city": "Landkreis Haßberge",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "HB",
+        "origin": "Hansestadt Bremen",
+        "city": "Städte Bremerhaven & Bremen",
+        "state": "Bremen"
+    },
+    {
+        "abbreviation": "HBN",
+        "origin": "Hildburghausen",
+        "city": "Landkreis Hildburghausen",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "HBS",
+        "origin": "Halberstadt",
+        "city": "Landkreis Harz",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "HC",
+        "origin": "Hainichen",
+        "city": "Landkreis Mittelsachsen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "HCH",
+        "origin": "Hechingen",
+        "city": "Zollernalbkreis",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "HD",
+        "origin": "Heidelberg",
+        "city": "Rhein-Neckar-Kreis & Stadt Heidelberg",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "HDH",
+        "origin": "Heidenheim an der Brenz",
+        "city": "Landkreis Heidenheim",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "HDL",
+        "origin": "Haldensleben",
+        "city": "Landkreis Börde",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "HE",
+        "origin": "Helmstedt",
+        "city": "Landkreis Helmstedt",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "HEB",
+        "origin": "Hersbruck",
+        "city": "Landkreis Nürnberger Land",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "HEF",
+        "origin": "Bad Hersfeld",
+        "city": "Landkreis Hersfeld-Rotenburg",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "HEI",
+        "origin": "Heide (Holstein)",
+        "city": "Kreis Dithmarschen",
+        "state": "Schleswig-Holstein"
+    },
+    {
+        "abbreviation": "HEL",
+        "origin": "Land Hessen",
+        "city": "Landesregierung und Landtag",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "HER",
+        "origin": "Herne",
+        "city": "Stadt Herne",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "HET",
+        "origin": "Hettstedt",
+        "city": "Landkreis Mansfeld-Südharz",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "HF",
+        "origin": "Herford",
+        "city": "Kreis Herford",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "HG",
+        "origin": "Bad Homburg vor der Höhe",
+        "city": "Hochtaunuskreis",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "HGN",
+        "origin": "Hagenow",
+        "city": "Landkreis Ludwigslust-Parchim",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "HGW",
+        "origin": "Hansestadt Greifswald",
+        "city": "Stadt Greifswald",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "HH",
+        "origin": "Hansestadt Hamburg",
+        "city": "Freie und Hansestadt Hamburg",
+        "state": "Hamburg"
+    },
+    {
+        "abbreviation": "HHM",
+        "origin": "Hohenmölsen",
+        "city": "Burgenlandkreis",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "HI",
+        "origin": "Hildesheim",
+        "city": "Landkreis Hildesheim",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "HIG",
+        "origin": "Heiligenstadt",
+        "city": "Landkreis Eichsfeld",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "HIP",
+        "origin": "Hilpoltstein",
+        "city": "Landkreis Roth",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "HK",
+        "origin": "Heidekreis",
+        "city": "Landkreis Heidekreis",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "HL",
+        "origin": "Hansestadt Lübeck",
+        "city": "Stadt Lübeck",
+        "state": "Schleswig-Holstein"
+    },
+    {
+        "abbreviation": "HM",
+        "origin": "Hameln",
+        "city": "Landkreis Hameln-Pyrmont",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "HMÜ",
+        "origin": "Hannover Münden",
+        "city": "Landkreis Göttingen",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "HN",
+        "origin": "Heilbronn",
+        "city": "Landkreis & Stadt Heilbronn",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "HO",
+        "origin": "Hof",
+        "city": "Landkreis & Stadt Hof",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "HOG",
+        "origin": "Hofgeismar",
+        "city": "Landkreis Kassel",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "HOL",
+        "origin": "Holzminden",
+        "city": "Landkreis Holzminden",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "HOM",
+        "origin": "Homburg",
+        "city": "Saarpfalz-Kreis ohne St. Ingbert",
+        "state": "Saarland"
+    },
+    {
+        "abbreviation": "HOT",
+        "origin": "Hohenstein-Ernstthal",
+        "city": "Landkreis Zwickau",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "HP",
+        "origin": "Heppenheim (Bergstraße)",
+        "city": "Landkreis Bergstraße",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "HR",
+        "origin": "Homberg (Efze)",
+        "city": "Schwalm-Eder-Kreis",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "HRO",
+        "origin": "Hansestadt Rostock",
+        "city": "Stadt Rostock",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "HS",
+        "origin": "Heinsberg",
+        "city": "Kreis Heinsberg",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "HSK",
+        "origin": "Hochsauerlandkreis",
+        "city": "Hochsauerlandkreis",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "HST",
+        "origin": "Hansestadt Stralsund",
+        "city": "Stadt Stralsund",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "HU",
+        "origin": "Hanau",
+        "city": "Stadt Hanau",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "HV",
+        "origin": "Havelberg",
+        "city": "Landkreis Stendal",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "HVL",
+        "origin": "Havelland",
+        "city": "Landkreis Havelland",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "HWI",
+        "origin": "Hansestadt Wismar",
+        "city": "Stadt Wismar",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "HX",
+        "origin": "Höxter",
+        "city": "Kreis Höxter",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "HY",
+        "origin": "Hoyerswerda",
+        "city": "Landkreis Bautzen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "HZ",
+        "origin": "Harz",
+        "city": "Landkreis Harz",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "IGB",
+        "origin": "St. Ingbert",
+        "city": "Stadt St. Ingbert",
+        "state": "Saarland"
+    },
+    {
+        "abbreviation": "IK",
+        "origin": "Ilm-Kreis",
+        "city": "Ilm-Kreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "IL",
+        "origin": "Ilmenau",
+        "city": "Ilm-Kreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "ILL",
+        "origin": "Illertissen",
+        "city": "Landkreis Neu-Ulm",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "IN",
+        "origin": "Ingolstadt",
+        "city": "Stadt Ingolstadt",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "IZ",
+        "origin": "Itzehoe",
+        "city": "Kreis Steinburg",
+        "state": "Schleswig-Holstein"
+    },
+    {
+        "abbreviation": "J",
+        "origin": "Jena",
+        "city": "Stadt Jena",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "JE",
+        "origin": "Jessen (Elster)",
+        "city": "Landkreis Wittenberg",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "JL",
+        "origin": "Jerichower Land",
+        "city": "Landkreis Jerichower Land",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "JÜL",
+        "origin": "Jülich",
+        "city": "Kreis Düren",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "K",
+        "origin": "Köln",
+        "city": "Stadt Köln",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "KA",
+        "origin": "Karlsruhe",
+        "city": "Stadt & Landkreis Karlsruhe",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "KB",
+        "origin": "Korbach",
+        "city": "Landkreis Waldeck-Frankenberg",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "KC",
+        "origin": "Kronach",
+        "city": "Landkreis Kronach",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "KE",
+        "origin": "Kempten",
+        "city": "Stadt Kempten (Allgäu)",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "KEH",
+        "origin": "Kelheim",
+        "city": "Landkreis Kelheim",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "KEM",
+        "origin": "Kemnath",
+        "city": "Landkreise Bayreuth & Tirschenreuth",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "KF",
+        "origin": "Kaufbeuren",
+        "city": "Stadt Kaufbeuren",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "KG",
+        "origin": "Bad Kissingen",
+        "city": "Landkreis Bad Kissingen",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "KH",
+        "origin": "Bad Kreuznach",
+        "city": "Landkreis & Stadt Bad Kreuznach",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "KI",
+        "origin": "Kiel",
+        "city": "Stadt Kiel",
+        "state": "Schleswig-Holstein"
+    },
+    {
+        "abbreviation": "KIB",
+        "origin": "Kirchheimbolanden",
+        "city": "Donnersbergkreis",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "KL",
+        "origin": "Kaiserslautern",
+        "city": "Landkreis & Stadt Kaiserslautern",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "KLE",
+        "origin": "Kleve",
+        "city": "Kreis Kleve",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "KLZ",
+        "origin": "Klötze",
+        "city": "Altmarkkreis Salzwedel",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "KM",
+        "origin": "Kamenz",
+        "city": "Landkreis Bautzen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "KN",
+        "origin": "Konstanz",
+        "city": "Landkreis Konstanz ohne Büsingen am Ho",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "KO",
+        "origin": "Koblenz",
+        "city": "Stadt Koblenz",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "KÖN",
+        "origin": "Bad Königshofen im Grabfel",
+        "city": "Landkreis Rhön-Grabfeld",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "KÖT",
+        "origin": "Köthen (Anhalt)",
+        "city": "Landkreis Anhalt-Bitterfeld",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "KÖZ",
+        "origin": "Kötzting",
+        "city": "Landkreis Cham",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "KR",
+        "origin": "Krefeld",
+        "city": "Stadt Krefeld",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "KRU",
+        "origin": "Krumbach (Schwaben)",
+        "city": "Landkreis Günzburg",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "KS",
+        "origin": "Kassel",
+        "city": "Stadt & Landkreis Kassel",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "KT",
+        "origin": "Kitzingen",
+        "city": "Landkreis Kitzingen",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "KU",
+        "origin": "Kulmbach",
+        "city": "Landkreis Kulmbach",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "KÜN",
+        "origin": "Künzelsau",
+        "city": "Hohenlohekreis",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "KUS",
+        "origin": "Kusel",
+        "city": "Landkreis Kusel",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "KY",
+        "origin": "Kyritz",
+        "city": "Landkreis Ostprignitz-Ruppin",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "KYF",
+        "origin": "Kyffhäuser",
+        "city": "Kyffhäuserkreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "L",
+        "origin": "Leipzig",
+        "city": "Stadt & Landkreis Leipzig",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "LA",
+        "origin": "Landshut",
+        "city": "Landkreis & Stadt Landshut",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "LAU",
+        "origin": "Lauf an der Pegnitz",
+        "city": "Landkreis Nürnberger Land",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "LB",
+        "origin": "Ludwigsburg",
+        "city": "Landkreis Ludwigsburg",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "LBS",
+        "origin": "Bad Lobenstein",
+        "city": "Saale-Orla-Kreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "LBZ",
+        "origin": "Lübz",
+        "city": "Landkreis Ludwigslust-Parchim",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "LD",
+        "origin": "Landau in der Pfalz",
+        "city": "Stadt Landau in der Pfalz",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "LDK",
+        "origin": "Lahn-Dill-Kreis",
+        "city": "Lahn-Dill-Kreis ohne Wetzlar",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "LDS",
+        "origin": "Landkreis Dahme-Spreewald",
+        "city": "Landkreis Dahme-Spreewald",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "LEO",
+        "origin": "Leonberg",
+        "city": "Landkreis Böblingen",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "LER",
+        "origin": "Leer (Ostfriesland)",
+        "city": "Landkreis Leer",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "LEV",
+        "origin": "Leverkusen",
+        "city": "Stadt Leverkusen",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "LG",
+        "origin": "Lüneburg",
+        "city": "Landkreis Lüneburg",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "LI",
+        "origin": "Lindau am Bodensee",
+        "city": "Landkreis Lindau am Bodensee",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "LIB",
+        "origin": "Bad Liebenwerda",
+        "city": "Landkreis Elbe-Elster",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "LIF",
+        "origin": "Lichtenfels",
+        "city": "Landkreis Lichtenfels",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "LIP",
+        "origin": "Lippe",
+        "city": "Kreis Lippe",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "LL",
+        "origin": "Landsberg am Lech",
+        "city": "Landkreis Landsberg am Lech",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "LM",
+        "origin": "Limburg an der Lahn",
+        "city": "Landkreis Limburg-Weilburg",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "LÖ",
+        "origin": "Lörrach",
+        "city": "Landkreis Lörrach",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "LÖB",
+        "origin": "Löbau",
+        "city": "Landkreis Görlitz",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "LOS",
+        "origin": "Landkreis Oder-Spree",
+        "city": "Landkreis Oder-Spree",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "LP",
+        "origin": "Lippstadt",
+        "city": "Kreis Soest",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "LRO",
+        "origin": "Landkreis Rostock",
+        "city": "Landkreis Rostock",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "LSA",
+        "origin": "Land Sachsen-Anhalt",
+        "city": "Landesregierung, Landtag und Polizei",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "LSN",
+        "origin": "Land Sachsen",
+        "city": "Landesregierung und Landtag",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "LSZ",
+        "origin": "Bad Langensalza",
+        "city": "Unstrut-Hainich-Kreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "LU",
+        "origin": "Ludwigshafen am Rhein",
+        "city": "Stadt Ludwigshafen am Rhein",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "LÜN",
+        "origin": "Lünen",
+        "city": "Kreis Unna",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "LUP",
+        "origin": "Ludwigslust-Parchim",
+        "city": "Landkreis Ludwigslust-Parchim",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "LWL",
+        "origin": "Ludwigslust",
+        "city": "Landkreis Ludwigslust-Parchim",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "M",
+        "origin": "München",
+        "city": "Stadt & Landkreis München",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "MA",
+        "origin": "Mannheim",
+        "city": "Stadt Mannheim",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "MAB",
+        "origin": "Marienberg",
+        "city": "Erzgebirgskreis",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "MAI",
+        "origin": "Mainburg",
+        "city": "Landkreis Kelheim",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "MAK",
+        "origin": "Marktredwitz",
+        "city": "Landkreis Wunsiedel im Fichtelgebirge",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "MB",
+        "origin": "Miesbach",
+        "city": "Landkreis Miesbach",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "MC",
+        "origin": "Malchin",
+        "city": "Landkreis Mecklenburgische Seenplatte o",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "MD",
+        "origin": "Magdeburg",
+        "city": "Stadt Magdeburg",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "ME",
+        "origin": "Mettmann",
+        "city": "Kreis Mettmann",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "MEI",
+        "origin": "Meißen",
+        "city": "Landkreis Meißen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "MEK",
+        "origin": "Mittlerer Erzgebirgskreis",
+        "city": "Erzgebirgskreis",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "MER",
+        "origin": "Merseburg",
+        "city": "Saalekreis",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "MET",
+        "origin": "Mellrichstadt",
+        "city": "Landkreis Rhön-Grabfeld",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "MG",
+        "origin": "Mönchengladbach",
+        "city": "Stadt Mönchengladbach",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "MGN",
+        "origin": "Meiningen",
+        "city": "Landkreis Schmalkalden-Meiningen",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "MH",
+        "origin": "Mülheim an der Ruhr",
+        "city": "Stadt Mülheim an der Ruhr",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "MHL",
+        "origin": "Mühlhausen/Thüringen",
+        "city": "Unstrut-Hainich-Kreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "MI",
+        "origin": "Minden",
+        "city": "Kreis Minden-Lübbecke",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "MIL",
+        "origin": "Miltenberg",
+        "city": "Landkreis Miltenberg",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "MK",
+        "origin": "Mark",
+        "city": "Märkischer Kreis",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "MKK",
+        "origin": "Main-Kinzig-Kreis",
+        "city": "Main-Kinzig-Kreis ohne Hanau",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "ML",
+        "origin": "Mansfelder Land",
+        "city": "Landkreis Mansfeld-Südharz",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "MM",
+        "origin": "Memmingen",
+        "city": "Stadt Memmingen",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "MN",
+        "origin": "Mindelheim",
+        "city": "Landkreis Unterallgäu",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "MO",
+        "origin": "Moers",
+        "city": "Kreis Wesel",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "MOD",
+        "origin": "Marktoberdorf",
+        "city": "Landkreis Ostallgäu",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "MOL",
+        "origin": "Märkisch-Oderland",
+        "city": "Landkreis Märkisch-Oderland",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "MON",
+        "origin": "Monschau",
+        "city": "Städteregion Aachen",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "MOS",
+        "origin": "Mosbach",
+        "city": "Neckar-Odenwald-Kreis",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "MQ",
+        "origin": "Merseburg-Querfurt",
+        "city": "Saalekreis",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "MR",
+        "origin": "Marburg-Biedenkopf",
+        "city": "Landkreis Marburg-Biedenkopf",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "MS",
+        "origin": "Münster",
+        "city": "Stadt Münster (Westfalen)",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "MSE",
+        "origin": "Mecklenburgische Seenplatt",
+        "city": "Landkreis Mecklenburgische Seenplatte o",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "MSH",
+        "origin": "Mansfeld-Südharz",
+        "city": "Landkreis Mansfeld-Südharz",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "MSP",
+        "origin": "Main-Spessart",
+        "city": "Landkreis Main-Spessart",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "MST",
+        "origin": "Mecklenburg-Strelitz",
+        "city": "Landkreis Mecklenburgische Seenplatte o",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "MTK",
+        "origin": "Main-Taunus-Kreis",
+        "city": "Main-Taunus-Kreis",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "MTL",
+        "origin": "Muldentalkreis",
+        "city": "Landkreis Leipzig",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "MÜ",
+        "origin": "Mühldorf am Inn",
+        "city": "Landkreis Mühldorf am Inn",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "MÜB",
+        "origin": "Münchberg",
+        "city": "Landkreis Bayreuth",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "MÜR",
+        "origin": "Müritz",
+        "city": "Landkreis Mecklenburgische Seenplatte o",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "MVL",
+        "origin": "Land Mecklenburg-Vorpom",
+        "city": "Landesregierung, Landtag und Polizei",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "MW",
+        "origin": "Mittweida",
+        "city": "Landkreis Mittelsachsen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "MY",
+        "origin": "Mayen",
+        "city": "Landkreis Mayen-Koblenz",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "MYK",
+        "origin": "Mayen-Koblenz",
+        "city": "Landkreis Mayen-Koblenz",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "MZ",
+        "origin": "Mainz",
+        "city": "Stadt Mainz & Landkreis Mainz-Bingen",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "MZG",
+        "origin": "Merzig",
+        "city": "Landkreis Merzig-Wadern",
+        "state": "Saarland"
+    },
+    {
+        "abbreviation": "N",
+        "origin": "Nürnberg",
+        "city": "Stadt Nürnberg & Landkreis Nürnberger L",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "NAB",
+        "origin": "Nabburg",
+        "city": "Landkreise Amberg-Sulzbach & Schwand",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "NB",
+        "origin": "Neubrandenburg",
+        "city": "Stadt Neubrandenburg",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "ND",
+        "origin": "Neuburg an der Donau",
+        "city": "Landkreis Neuburg-Schrobenhausen",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "NDH",
+        "origin": "Nordhausen",
+        "city": "Landkreis Nordhausen",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "NE",
+        "origin": "Neuss",
+        "city": "Rhein-Kreis Neuss",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "NEA",
+        "origin": "Neustadt an der Aisch",
+        "city": "Landkreis Neustadt an der Aisch-Bad Win",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "NEB",
+        "origin": "Nebra (Unstrut)",
+        "city": "Burgenlandkreis",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "NEC",
+        "origin": "Neustadt bei Coburg",
+        "city": "Landkreis Coburg",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "NEN",
+        "origin": "Neunburg vorm Wald",
+        "city": "Landkreis Schwandorf",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "NES",
+        "origin": "Bad Neustadt an der Saale",
+        "city": "Landkreis Rhön-Grabfeld",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "NEW",
+        "origin": "Neustadt an der Waldnaab",
+        "city": "Landkreis Neustadt an der Waldnaab",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "NF",
+        "origin": "Nordfriesland",
+        "city": "Kreis Nordfriesland",
+        "state": "Schleswig-Holstein"
+    },
+    {
+        "abbreviation": "NH",
+        "origin": "Neuhaus am Rennweg",
+        "city": "Landkreis Sonneberg",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "NI",
+        "origin": "Nienburg/Weser",
+        "city": "Landkreis Nienburg/Weser",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "NK",
+        "origin": "Neunkirchen",
+        "city": "Landkreis Neunkirchen",
+        "state": "Saarland"
+    },
+    {
+        "abbreviation": "NL",
+        "origin": "Land Niedersachsen",
+        "city": "Landesregierung und Landtag",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "NM",
+        "origin": "Neumarkt in der Oberpfalz",
+        "city": "Landkreis Neumarkt in der Oberpfalz",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "NMB",
+        "origin": "Naumburg (Saale)",
+        "city": "Burgenlandkreis",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "NMS",
+        "origin": "Neumünster",
+        "city": "Stadt Neumünster",
+        "state": "Schleswig-Holstein"
+    },
+    {
+        "abbreviation": "NÖ",
+        "origin": "Nördlingen",
+        "city": "Landkreis Donau-Ries",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "NOH",
+        "origin": "Nordhorn",
+        "city": "Landkreis Grafschaft Bentheim",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "NOL",
+        "origin": "Niederschlesische Oberlausi",
+        "city": "Landkreis Görlitz",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "NOM",
+        "origin": "Northeim",
+        "city": "Landkreis Northeim",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "NOR",
+        "origin": "Norden",
+        "city": "Landkreis Aurich",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "NP",
+        "origin": "Neuruppin",
+        "city": "Landkreis Ostprignitz-Ruppin",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "NR",
+        "origin": "Neuwied am Rhein",
+        "city": "Landkreis & Stadt Neuwied",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "NRW",
+        "origin": "Land Nordrhein-Westfalen",
+        "city": "Landesregierung, Landtag und Polizei",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "NU",
+        "origin": "Neu-Ulm",
+        "city": "Landkreis Neu-Ulm",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "NVP",
+        "origin": "Nordvorpommern",
+        "city": "Landkreis Vorpommern-Rügen ohne Stral",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "NW",
+        "origin": "Neustadt an der Weinstraße",
+        "city": "Stadt Neustadt an der Weinstraße",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "NWM",
+        "origin": "Nordwestmecklenburg",
+        "city": "Landkreis Nordwestmecklenburg ohne W",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "NY",
+        "origin": "Niesky",
+        "city": "Landkreis Görlitz",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "NZ",
+        "origin": "Neustrelitz",
+        "city": "Landkreis Mecklenburgische Seenplatte o",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "OA",
+        "origin": "Oberallgäu",
+        "city": "Landkreis Oberallgäu",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "OAL",
+        "origin": "Ostallgäu",
+        "city": "Landkreis Ostallgäu",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "OB",
+        "origin": "Oberhausen",
+        "city": "Stadt Oberhausen",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "OBG",
+        "origin": "Osterburg (Altmark)",
+        "city": "Landkreis Stendal",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "OC",
+        "origin": "Oschersleben (Bode)",
+        "city": "Landkreis Börde",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "OCH",
+        "origin": "Ochsenfurt",
+        "city": "Landkreis Würzburg",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "OD",
+        "origin": "Bad Oldesloe",
+        "city": "Kreis Stormarn",
+        "state": "Schleswig-Holstein"
+    },
+    {
+        "abbreviation": "OE",
+        "origin": "Olpe",
+        "city": "Kreis Olpe",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "OF",
+        "origin": "Offenbach",
+        "city": "Landkreis Offenbach & Stadt Offenbach a",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "OG",
+        "origin": "Offenburg",
+        "city": "Ortenaukreis",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "OH",
+        "origin": "Ostholstein",
+        "city": "Kreis Ostholstein",
+        "state": "Schleswig-Holstein"
+    },
+    {
+        "abbreviation": "OHA",
+        "origin": "Osterode am Harz",
+        "city": "Landkreis Osterode am Harz",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "OHV",
+        "origin": "Oberhavel",
+        "city": "Landkreis Oberhavel",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "OHZ",
+        "origin": "Osterholz-Scharmbeck",
+        "city": "Landkreis Osterholz",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "OK",
+        "origin": "Ohrekreis",
+        "city": "Landkreis Börde",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "OL",
+        "origin": "Oldenburg",
+        "city": "Stadt Oldenburg & Oldenburg",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "OPR",
+        "origin": "Ostprignitz-Ruppin",
+        "city": "Landkreis Ostprignitz-Ruppin",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "OS",
+        "origin": "Osnabrück",
+        "city": "Landkreis & Stadt Osnabrück",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "OSL",
+        "origin": "Oberspreewald-Lausitz",
+        "city": "Landkreis Oberspreewald-Lausitz",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "OVI",
+        "origin": "Oberviechtach",
+        "city": "Landkreis Schwandorf",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "OVL",
+        "origin": "Obervogtland",
+        "city": "Vogtlandkreis",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "OZ",
+        "origin": "Oschatz",
+        "city": "Landkreis Nordsachsen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "P",
+        "origin": "Potsdam",
+        "city": "Stadt Potsdam",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "PA",
+        "origin": "Passau",
+        "city": "Landkreis & Stadt Passau",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "PAF",
+        "origin": "Pfaffenhofen an der Ilm",
+        "city": "Landkreis Pfaffenhofen an der Ilm",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "PAN",
+        "origin": "Pfarrkirchen",
+        "city": "Landkreis Rottal-Inn",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "PAR",
+        "origin": "Parsberg",
+        "city": "Landkreise Kelheim & Neumarkt in der O",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "PB",
+        "origin": "Paderborn",
+        "city": "Kreis Paderborn",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "PCH",
+        "origin": "Parchim",
+        "city": "Landkreis Ludwigslust-Parchim",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "PE",
+        "origin": "Peine",
+        "city": "Landkreis Peine",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "PEG",
+        "origin": "Pegnitz",
+        "city": "Landkreise Bayreuth, Forchheim & Nürnb",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "PF",
+        "origin": "Pforzheim",
+        "city": "Stadt Pforzheim",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "PI",
+        "origin": "Pinneberg",
+        "city": "Kreis Pinneberg",
+        "state": "Schleswig-Holstein"
+    },
+    {
+        "abbreviation": "PIR",
+        "origin": "Pirna",
+        "city": "Landkreis Sächsische Schweiz-Osterzgebi",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "PL",
+        "origin": "Plauen",
+        "city": "Vogtlandkreis",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "PLÖ",
+        "origin": "Plön",
+        "city": "Kreis Plön",
+        "state": "Schleswig-Holstein"
+    },
+    {
+        "abbreviation": "PM",
+        "origin": "Potsdam-Mittelmark",
+        "city": "Landkreis Potsdam-Mittelmark",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "PN",
+        "origin": "Pößneck",
+        "city": "Saale-Orla-Kreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "PR",
+        "origin": "Prignitz",
+        "city": "Landkreis Prignitz",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "PRÜ",
+        "origin": "Prüm",
+        "city": "Eifelkreis Bitburg-Prüm",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "PS",
+        "origin": "Pirmasens",
+        "city": "Landkreis Südwestpfalz & Stadt Pirmasen",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "PW",
+        "origin": "Pasewalk",
+        "city": "Landkreis Vorpommern-Greifswald ohne",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "QFT",
+        "origin": "Querfurt",
+        "city": "Saalekreis",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "QLB",
+        "origin": "Quedlinburg",
+        "city": "Landkreis Harz",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "R",
+        "origin": "Regensburg",
+        "city": "Stadt & Landkreis Regensburg",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "RA",
+        "origin": "Rastatt",
+        "city": "Landkreis Rastatt",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "RC",
+        "origin": "Reichenbach im Vogtland",
+        "city": "Vogtlandkreis",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "RD",
+        "origin": "Rendsburg",
+        "city": "Kreis Rendsburg-Eckernförde",
+        "state": "Schleswig-Holstein"
+    },
+    {
+        "abbreviation": "RDG",
+        "origin": "Ribnitz-Damgarten",
+        "city": "Landkreis Vorpommern-Rügen ohne Stral",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "RE",
+        "origin": "Recklinghausen",
+        "city": "Kreis Recklinghausen",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "REG",
+        "origin": "Regen",
+        "city": "Landkreis Regen",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "REH",
+        "origin": "Rehau",
+        "city": "Landkreis Wunsiedel im Fichtelgebirge",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "RG",
+        "origin": "Riesa-Großenhain",
+        "city": "Landkreis Meißen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "RH",
+        "origin": "Roth",
+        "city": "Landkreis Roth",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "RI",
+        "origin": "Rinteln",
+        "city": "Landkreis Schaumburg",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "RID",
+        "origin": "Riedenburg",
+        "city": "Landkreis Kelheim",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "RIE",
+        "origin": "Riesa",
+        "city": "Landkreis Meißen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "RL",
+        "origin": "Rochlitz",
+        "city": "Landkreis Mittelsachsen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "RM",
+        "origin": "Röbel/Müritz",
+        "city": "Landkreis Mecklenburgische Seenplatte o",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "RO",
+        "origin": "Rosenheim",
+        "city": "Landkreis & Stadt Rosenheim",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "ROD",
+        "origin": "Roding",
+        "city": "Landkreise Cham & Schwandorf",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "ROF",
+        "origin": "Rotenburg an der Fulda",
+        "city": "Landkreis Hersfeld-Rotenburg",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "ROK",
+        "origin": "Rockenhausen",
+        "city": "Donnersbergkreis",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "ROL",
+        "origin": "Rottenburg an der Laaber",
+        "city": "Landkreis Kelheim",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "ROS",
+        "origin": "Rostock",
+        "city": "Landkreis Rostock",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "ROT",
+        "origin": "Rothenburg ob der Tauber",
+        "city": "Landkreis Ansbach",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "ROW",
+        "origin": "Rotenburg an der Wümme",
+        "city": "Landkreis Rotenburg (Wümme)",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "RP",
+        "origin": "Rhein-Pfalz",
+        "city": "Rhein-Pfalz-Kreis",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "RPL",
+        "origin": "Land Rheinland-Pfalz",
+        "city": "Landesregierung, Landtag und Polizei",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "RS",
+        "origin": "Remscheid",
+        "city": "Stadt Remscheid",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "RSL",
+        "origin": "Roßlau (Elbe)",
+        "city": "Stadt Dessau-Roßlau",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "RT",
+        "origin": "Reutlingen",
+        "city": "Landkreis Reutlingen",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "RU",
+        "origin": "Rudolstadt",
+        "city": "Landkreis Saalfeld-Rudolstadt",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "RÜD",
+        "origin": "Rüdesheim am Rhein",
+        "city": "Rheingau-Taunus-Kreis",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "RÜG",
+        "origin": "Rügen",
+        "city": "Landkreis Vorpommern-Rügen",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "RV",
+        "origin": "Ravensburg",
+        "city": "Landkreis Ravensburg",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "RW",
+        "origin": "Rottweil",
+        "city": "Landkreis Rottweil",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "RZ",
+        "origin": "Ratzeburg",
+        "city": "Kreis Herzogtum Lauenburg",
+        "state": "Schleswig-Holstein"
+    },
+    {
+        "abbreviation": "S",
+        "origin": "Stuttgart",
+        "city": "Stadt Stuttgart",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "SAB",
+        "origin": "Saarburg",
+        "city": "Landkreis Trier-Saarburg",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "SAD",
+        "origin": "Schwandorf",
+        "city": "Landkreis Schwandorf",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "SAL",
+        "origin": "Land Saarland",
+        "city": "Landesregierung, Landtag und Polizei",
+        "state": "Saarland"
+    },
+    {
+        "abbreviation": "SAN",
+        "origin": "Stadtsteinach",
+        "city": "Landkreise Kronach & Kulmbach",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "SAW",
+        "origin": "Salzwedel",
+        "city": "Altmarkkreis Salzwedel",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "SB",
+        "origin": "Saarbrücken",
+        "city": "Regionalverband Saarbrücken ohne Völkl",
+        "state": "Saarland"
+    },
+    {
+        "abbreviation": "SBG",
+        "origin": "Strasburg",
+        "city": "Landkreis Vorpommern-Greifswald",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "SBK",
+        "origin": "Schönebeck (Elbe)",
+        "city": "Salzlandkreis",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "SC",
+        "origin": "Schwabach",
+        "city": "Stadt Schwabach",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "SCZ",
+        "origin": "Schleiz",
+        "city": "Saale-Orla-Kreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "SDH",
+        "origin": "Sondershausen",
+        "city": "Kyffhäuserkreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "SDL",
+        "origin": "Stendal",
+        "city": "Landkreis Stendal",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "SE",
+        "origin": "Bad Segeberg",
+        "city": "Kreis Segeberg",
+        "state": "Schleswig-Holstein"
+    },
+    {
+        "abbreviation": "SEB",
+        "origin": "Sebnitz",
+        "city": "Landkreis Sächsische Schweiz-Osterzgebi",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "SEE",
+        "origin": "Seelow",
+        "city": "Landkreis Märkisch-Oderland",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "SEF",
+        "origin": "Scheinfeld",
+        "city": "Landkreis Neustadt an der Aisch-Bad Win",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "SEL",
+        "origin": "Selb",
+        "city": "Landkreis Wunsiedel im Fichtelgebirge",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "SFB",
+        "origin": "Senftenberg",
+        "city": "Landkreis Oberspreewald-Lausitz",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "SFT",
+        "origin": "Staßfurt",
+        "city": "Salzlandkreis",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "SG",
+        "origin": "Solingen",
+        "city": "Stadt Solingen",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "SGH",
+        "origin": "Sangerhausen",
+        "city": "Landkreis Mansfeld-Südharz",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "SH",
+        "origin": "Land Schleswig-Holstein",
+        "city": "Landesregierung, Landtag und Polizei",
+        "state": "Schleswig-Holstein"
+    },
+    {
+        "abbreviation": "SHA",
+        "origin": "Schwäbisch Hall",
+        "city": "Landkreis Schwäbisch Hall",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "SHG",
+        "origin": "Schaumburg oder Stadthage",
+        "city": "Landkreis Schaumburg",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "SHK",
+        "origin": "Saale-Holzland-Kreis",
+        "city": "Saale-Holzland-Kreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "SHL",
+        "origin": "Suhl",
+        "city": "Stadt Suhl",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "SI",
+        "origin": "Siegen",
+        "city": "Kreis Siegen-Wittgenstein",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "SIG",
+        "origin": "Sigmaringen",
+        "city": "Landkreis Sigmaringen",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "SIM",
+        "origin": "Simmern/Hunsrück",
+        "city": "Rhein-Hunsrück-Kreis",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "SK",
+        "origin": "Saalekreis",
+        "city": "Saalekreis",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "SL",
+        "origin": "Schleswig",
+        "city": "Kreis Schleswig-Flensburg",
+        "state": "Schleswig-Holstein"
+    },
+    {
+        "abbreviation": "SLE",
+        "origin": "Schleiden",
+        "city": "Kreis Euskirchen",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "SLF",
+        "origin": "Saalfeld/Saale",
+        "city": "Landkreis Saalfeld-Rudolstadt",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "SLK",
+        "origin": "Salzlandkreis",
+        "city": "Salzlandkreis",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "SLN",
+        "origin": "Schmölln",
+        "city": "Landkreis Altenburger Land",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "SLS",
+        "origin": "Saarlouis",
+        "city": "Landkreis Saarlouis",
+        "state": "Saarland"
+    },
+    {
+        "abbreviation": "SLÜ",
+        "origin": "Schlüchtern",
+        "city": "Main-Kinzig-Kreis ohne Hanau",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "SLZ",
+        "origin": "Bad Salzungen",
+        "city": "Wartburgkreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "SM",
+        "origin": "Schmalkalden-Meiningen",
+        "city": "Landkreis Schmalkalden-Meiningen",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "SN",
+        "origin": "Schwerin",
+        "city": "Stadt Schwerin",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "SO",
+        "origin": "Soest",
+        "city": "Kreis Soest",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "SOB",
+        "origin": "Schrobenhausen",
+        "city": "Landkreis Neuburg-Schrobenhausen",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "SOG",
+        "origin": "Schongau",
+        "city": "Landkreis Weilheim-Schongau",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "SOK",
+        "origin": "Saale-Orla-Kreis",
+        "city": "Saale-Orla-Kreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "SÖM",
+        "origin": "Sömmerda",
+        "city": "Landkreis Sömmerda",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "SON",
+        "origin": "Sonneberg",
+        "city": "Landkreis Sonneberg",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "SP",
+        "origin": "Speyer",
+        "city": "Stadt Speyer",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "SPB",
+        "origin": "Spremberg",
+        "city": "Landkreis Spree-Neiße",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "SPN",
+        "origin": "Spree-Neiße",
+        "city": "Landkreis Spree-Neiße",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "SR",
+        "origin": "Straubing-Bogen",
+        "city": "Landkreis Straubing-Bogen & Stadt Strau",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "SRB",
+        "origin": "Strausberg",
+        "city": "Landkreis Märkisch-Oderland",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "SRO",
+        "origin": "Stadtroda",
+        "city": "Saale-Holzland-Kreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "ST",
+        "origin": "Steinfurt",
+        "city": "Kreis Steinfurt",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "STA",
+        "origin": "Starnberg",
+        "city": "Landkreis Starnberg",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "STB",
+        "origin": "Sternberg",
+        "city": "Landkreis Ludwigslust-Parchim",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "STD",
+        "origin": "Stade",
+        "city": "Landkreis Stade",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "STE",
+        "origin": "Bad Staffelstein",
+        "city": "Landkreis Lichtenfels",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "STL",
+        "origin": "Stollberg/Erzgeb.",
+        "city": "Erzgebirgskreis",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "SU",
+        "origin": "Siegburg",
+        "city": "Rhein-Sieg-Kreis",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "SUL",
+        "origin": "Sulzbach-Rosenberg",
+        "city": "Landkreis Amberg-Sulzbach",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "SÜW",
+        "origin": "Südliche Weinstraße",
+        "city": "Landkreis Südliche Weinstraße",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "SW",
+        "origin": "Schweinfurt",
+        "city": "Landkreis & Stadt Schweinfurt",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "SWA",
+        "origin": "Bad Schwalbach",
+        "city": "Rheingau-Taunus-Kreis",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "SZ",
+        "origin": "Salzgitter",
+        "city": "Stadt Salzgitter",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "SZB",
+        "origin": "Schwarzenberg/Erzgeb.",
+        "city": "Erzgebirgskreis",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "TBB",
+        "origin": "Tauberbischofsheim",
+        "city": "Main-Tauber-Kreis",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "TDO",
+        "origin": "Torgau, Delitzsch, Oschatz",
+        "city": "Landkreis Nordsachsen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "TE",
+        "origin": "Tecklenburg",
+        "city": "Kreis Steinfurt",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "TET",
+        "origin": "Teterow",
+        "city": "Landkreis Rostock",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "TF",
+        "origin": "Teltow-Fläming",
+        "city": "Landkreis Teltow-Fläming",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "TG",
+        "origin": "Torgau",
+        "city": "Landkreis Nordsachsen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "THL",
+        "origin": "Land Thüringen",
+        "city": "Landesregierung und Landtag",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "THW",
+        "origin": "Technisches Hilfswerk",
+        "city": "Bundesanstalt Technisches Hilfswerk",
+        "state": "bundesweit"
+    },
+    {
+        "abbreviation": "TIR",
+        "origin": "Tirschenreuth",
+        "city": "Landkreis Tirschenreuth",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "TO",
+        "origin": "Torgau-Oschatz",
+        "city": "Landkreis Nordsachsen",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "TÖL",
+        "origin": "Bad Tölz",
+        "city": "Landkreis Bad Tölz-Wolfratshausen",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "TR",
+        "origin": "Trier-Saarburg",
+        "city": "Landkreis Trier-Saarburg & Stadt Trier",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "TS",
+        "origin": "Traunstein",
+        "city": "Landkreis Traunstein",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "TÜ",
+        "origin": "Tübingen",
+        "city": "Landkreis Tübingen",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "TUT",
+        "origin": "Tuttlingen",
+        "city": "Landkreis Tuttlingen",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "UE",
+        "origin": "Uelzen",
+        "city": "Landkreis Uelzen",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "UEM",
+        "origin": "Ueckermünde",
+        "city": "Landkreis Vorpommern-Greifswald ohne",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "UFF",
+        "origin": "Uffenheim",
+        "city": "Landkreis Neustadt an der Aisch-Bad Win",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "UH",
+        "origin": "Unstrut-Hainich",
+        "city": "Unstrut-Hainich-Kreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "UL",
+        "origin": "Ulm",
+        "city": "Alb-Donau-Kreis & Stadt Ulm",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "UM",
+        "origin": "Uckermark",
+        "city": "Landkreis Uckermark",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "UN",
+        "origin": "Unna",
+        "city": "Kreis Unna",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "USI",
+        "origin": "Usingen",
+        "city": "Hochtaunuskreis",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "V",
+        "origin": "Vogtland",
+        "city": "Vogtlandkreis",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "VB",
+        "origin": "Vogelsberg",
+        "city": "Vogelsbergkreis",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "VEC",
+        "origin": "Vechta",
+        "city": "Landkreis Vechta",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "VER",
+        "origin": "Verden (Aller)",
+        "city": "Landkreis Verden",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "VG",
+        "origin": "Vorpommern, Greifswald",
+        "city": "Landkreis Vorpommern-Greifswald ohne",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "VIB",
+        "origin": "Vilsbiburg",
+        "city": "Landkreis Rottal-Inn",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "VIE",
+        "origin": "Viersen",
+        "city": "Kreis Viersen",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "VK",
+        "origin": "Völklingen",
+        "city": "Stadt Völklingen",
+        "state": "Saarland"
+    },
+    {
+        "abbreviation": "VOH",
+        "origin": "Vohenstrauß",
+        "city": "Landkreis Neustadt an der Waldnaab",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "VR",
+        "origin": "Vorpommern, Rügen",
+        "city": "Landkreis Vorpommern-Rügen ohne Stral",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "VS",
+        "origin": "Villingen-Schwenningen",
+        "city": "Schwarzwald-Baar-Kreis",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "W",
+        "origin": "Wuppertal",
+        "city": "Stadt Wuppertal",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "WAF",
+        "origin": "Warendorf",
+        "city": "Kreis Warendorf",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "WAK",
+        "origin": "Wartburgkreis",
+        "city": "Wartburgkreis",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "WAN",
+        "origin": "Wanne-Eickel",
+        "city": "Stadt Herne",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "WAT",
+        "origin": "Wattenscheid",
+        "city": "Stadt Bochum",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "WB",
+        "origin": "Wittenberg",
+        "city": "Landkreis Wittenberg",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "WBS",
+        "origin": "Worbis",
+        "city": "Landkreis Eichsfeld",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "WDA",
+        "origin": "Werdau",
+        "city": "Landkreis Zwickau",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "WE",
+        "origin": "Weimar",
+        "city": "Stadt Weimar",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "WEL",
+        "origin": "Weilburg",
+        "city": "Landkreis Limburg-Weilburg",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "WEN",
+        "origin": "Weiden in der Oberpfalz",
+        "city": "Stadt Weiden in der Oberpfalz",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "WER",
+        "origin": "Wertingen",
+        "city": "Landkreis Dillingen an der Donau",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "WES",
+        "origin": "Wesel",
+        "city": "Kreis Wesel",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "WF",
+        "origin": "Wolfenbüttel",
+        "city": "Landkreis Wolfenbüttel",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "WHV",
+        "origin": "Wilhelmshaven",
+        "city": "Stadt Wilhelmshaven",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "WI",
+        "origin": "Wiesbaden",
+        "city": "Stadt Wiesbaden",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "WIL",
+        "origin": "Wittlich",
+        "city": "Landkreis Bernkastel-Wittlich",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "WIS",
+        "origin": "Wismar",
+        "city": "Landkreis Nordwestmecklenburg",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "WIT",
+        "origin": "Witten",
+        "city": "Ennepe-Ruhr-Kreis",
+        "state": "Nordrhein-Westfalen"
+    },
+    {
+        "abbreviation": "WIZ",
+        "origin": "Witzenhausen",
+        "city": "Werra-Meißner-Kreis",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "WK",
+        "origin": "Wittstock/Dosse",
+        "city": "Landkreis Ostprignitz-Ruppin",
+        "state": "Brandenburg"
+    },
+    {
+        "abbreviation": "WL",
+        "origin": "Winsen (Luhe)",
+        "city": "Landkreis Harburg",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "WLG",
+        "origin": "Wolgast",
+        "city": "Landkreis Vorpommern-Greifswald ohne",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "WM",
+        "origin": "Weilheim in Oberbayern",
+        "city": "Landkreis Weilheim-Schongau",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "WMS",
+        "origin": "Wolmirstedt",
+        "city": "Landkreis Börde",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "WN",
+        "origin": "Waiblingen",
+        "city": "Rems-Murr-Kreis",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "WND",
+        "origin": "St. Wendel",
+        "city": "Landkreis St. Wendel",
+        "state": "Saarland"
+    },
+    {
+        "abbreviation": "WO",
+        "origin": "Worms",
+        "city": "Stadt Worms",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "WOB",
+        "origin": "Wolfsburg",
+        "city": "Stadt Wolfsburg",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "WOH",
+        "origin": "Wolfhagen",
+        "city": "Landkreis Kassel",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "WOR",
+        "origin": "Wolfratshausen",
+        "city": "Landkreise Bad Tölz-Wolfratshausen, Mü",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "WOS",
+        "origin": "Wolfstein",
+        "city": "Landkreis Freyung-Grafenau",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "WR",
+        "origin": "Wernigerode",
+        "city": "Landkreis Harz",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "WRN",
+        "origin": "Waren (Müritz)",
+        "city": "Landkreis Mecklenburgische Seenplatte o",
+        "state": "Mecklenburg-Vorpommern"
+    },
+    {
+        "abbreviation": "WS",
+        "origin": "Wasserburg am Inn",
+        "city": "Landkreis Rosenheim",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "WSF",
+        "origin": "Weißenfels",
+        "city": "Burgenlandkreis",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "WST",
+        "origin": "Westerstede",
+        "city": "Landkreis Ammerland",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "WSW",
+        "origin": "Weißwasser",
+        "city": "Landkreis Görlitz",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "WT",
+        "origin": "Waldshut-Tiengen",
+        "city": "Landkreis Waldshut",
+        "state": "Baden-Württemberg"
+    },
+    {
+        "abbreviation": "WTM",
+        "origin": "Wittmund",
+        "city": "Landkreis Wittmund",
+        "state": "Niedersachsen"
+    },
+    {
+        "abbreviation": "WÜ",
+        "origin": "Würzburg",
+        "city": "Stadt & Landkreis Würzburg",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "WUG",
+        "origin": "Weißenburg in Bayern",
+        "city": "Landkreis Weißenburg-Gunzenhausen",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "WÜM",
+        "origin": "Waldmünchen",
+        "city": "Landkreis Cham",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "WUN",
+        "origin": "Wunsiedel",
+        "city": "Landkreis Wunsiedel im Fichtelgebirge",
+        "state": "Bayern"
+    },
+    {
+        "abbreviation": "WUR",
+        "origin": "Wurzen",
+        "city": "Landkreis Leipzig",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "WW",
+        "origin": "Westerwald",
+        "city": "Westerwaldkreis",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "WZ",
+        "origin": "Wetzlar",
+        "city": "Stadt Wetzlar",
+        "state": "Hessen"
+    },
+    {
+        "abbreviation": "WZL",
+        "origin": "Wanzleben",
+        "city": "Landkreis Börde",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "X",
+        "origin": "Internationale Hauptquartie",
+        "city": "NATO",
+        "state": "bundesweit"
+    },
+    {
+        "abbreviation": "Y",
+        "origin": "Bundeswehr",
+        "city": "Bundeswehr",
+        "state": "bundesweit"
+    },
+    {
+        "abbreviation": "Z",
+        "origin": "Zwickau",
+        "city": "Landkreis Zwickau",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "ZE",
+        "origin": "Zerbst/Anhalt",
+        "city": "Landkreis Anhalt-Bitterfeld",
+        "state": "Sachsen-Anhalt"
+    },
+    {
+        "abbreviation": "ZEL",
+        "origin": "Zell (Mosel)",
+        "city": "Landkreis Cochem-Zell",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "ZI",
+        "origin": "Zittau",
+        "city": "Landkreis Görlitz",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "ZP",
+        "origin": "Zschopau",
+        "city": "Erzgebirgskreis",
+        "state": "Sachsen"
+    },
+    {
+        "abbreviation": "ZR",
+        "origin": "Zeulenroda",
+        "city": "Landkreis Greiz",
+        "state": "Thüringen"
+    },
+    {
+        "abbreviation": "ZW",
+        "origin": "Zweibrücken",
+        "city": "Stadt Zweibrücken",
+        "state": "Rheinland-Pfalz"
+    },
+    {
+        "abbreviation": "ZZ",
+        "origin": "Zeitz",
+        "city": "Burgenlandkreis",
+        "state": "Sachsen-Anhalt"
+    }
+]
